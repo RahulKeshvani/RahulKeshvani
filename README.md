@@ -1,6 +1,6 @@
-### Hi there 👋, I am Rahul Keshvani!
+### Hi there 👋, I am Rahul Keshvani
 💬 You can ask me about: Recursion 
-📫 How to reach me: On my github profile: https://github.com/RahulKeshvani/
+### 📫 How to reach me: On my github profile: https://github.com/RahulKeshvani/
 
 <!--
 **RahulKeshvani/RahulKeshvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
