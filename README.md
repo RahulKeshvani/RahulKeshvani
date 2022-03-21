@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rahul Keshvani
-💬 You can ask me about: Recursion 
-### 📫 How to reach me: On my github profile: https://github.com/RahulKeshvani/
+💬 You can ask me about: Android App Development 
+### 📫 How to reach me: My leetcode profile: https://leetcode.com/rahulkeshvani/
 
 <!--
 **RahulKeshvani/RahulKeshvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
